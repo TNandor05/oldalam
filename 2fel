@@ -1,0 +1,55 @@
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css (formazas)/goldi.css">
+    <title>2.feladat</title>
+</head>
+<body>
+    <p>SzövegSzövegSzöveg </p>
+    <ol>
+        <li>Szöveg</li>
+        <li>Szöveg</li>
+        <li>Szöveg</li>
+    </ol>
+    <dl>
+        <li>Szöveg</li>
+        <li>Szöveg</li>
+        <li>Szöveg</li>
+    </dl>
+    <table>
+        <caption >Táblázat címe hosszasan taglalva</caption>
+        <tr>
+            <td width="25%">Módszer</td>
+            <td>Leírás</td>
+
+        </tr>
+        <tr><th>Módszer</th>
+            <th>Leírás</th>
+    </table>
+<table>
+    <tr>Pudgy:</tr>
+    <tr><img src="kepek/pudgy.png" alt=""></tr>
+</table>
+<video controls src="videok/durva.mp4" ></video>
+<audio controls src="hangok/durvan hang.mp3"></audio>
+    <ul><li>Szöveg</li><li>Szöveg</li><li>Szöveg</li></ul>
+  <h1> Szöveg</h1> <h2>Szöveg</h2> <h3>Szöveg</h3> <h4>Szöveg</h4> <h5>Szöveg</h5> <h6>Szöveg</h6>
+    <p></p>
+</p><p>SzövegSzövegSzövegSzövegSzövegSzöveg<b>Szöveg</b>Szöveg<i>Szöveg</i> <u><b>Szius</b></u>övegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzöveg
+</p><p>    SzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzöveg
+    SzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzöveg
+    SzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzöveg
+ </p><p>   SzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzöveg </p>
+
+<p class="fontos">    SzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzöveg
+    SzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzöveg
+    SzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzöveg
+    SzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzöveg
+    SzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzövegSzöveg
+</p>
+    SzövegSzövegSzöveg
+
+    Szöveg
+</body>
+</html> 
