@@ -1,0 +1,31 @@
+html {background-color: rgb(144, 240, 176);}
+table {margin-left: auto;
+    margin-right: auto;}
+body
+{
+margin-top: 20px;  
+margin-bottom: 10px;
+border: 1px;
+border-color: red;
+border-style: dotted;
+font-family: 'Times New Roman', Times, serif;
+}
+ol,dl,table,title
+{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+p
+{margin-left: 200%;
+}
+
+p.fontos
+{
+    background-color: darkred;
+    color:white;
+    margin-right: 40px;
+    margin-left:60px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
